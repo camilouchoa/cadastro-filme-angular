@@ -4,10 +4,24 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
 
+<h2>Técnicas aprendidas neste curso:</h2>
+
+- HTLM;
+- CSS;
+- Criação de formulários;
+- Utilização do Angular Material;
+- Modulação em angular;
+- CRUD em angular;
+- Rotas;
+- HttpParams;
+- Utilização do json-server;
+- Scroll infinito;
+- Ordenação e filtragem.
+
 ## Instalação
 
 1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
-2. Entre no projeto e instale as dependencias `npm install`
+2. Entre no projeto e instale as dependências `npm install`
 
 ## Ambiente Local
 
